@@ -44,6 +44,7 @@ ul li a {
   text-decoration: none;
   cursor: pointer;
   transition: 0.5s;
+  
 }
 
 ul:hover li a {
@@ -82,7 +83,7 @@ ul li a::before {
   pointer-events: none;
   opacity: 0;
   transition: 0.25s;
-  font-size: 18vw;
+  font-size: 150px;
   z-index: -1;
   color: transparent;
   -webkit-text-stroke: 1px #fff;
